@@ -2,14 +2,14 @@
 For pixel-level binary classification (semantic segmentation):  
 One object, two classes(background, object)  
 
-# Environments:
+# Environments
 OS: Ubuntu 16.04 LTS  
 Framework: PyTorch 1.2.0 with cuda  
-Packages: NumPy, PIL, OpenCV-Python(3.4.0), etc...  
+Packages: NumPy, PIL, OpenCV-Python(3.4.2), etc...  
 GPU: Nvidia Quadro-p4000 8gb  
 
-# IMAGE SIZE:
-My image(and label) size is (3, 500, 500)  
+# IMAGE SIZE
+My image (and label) size: (3, 500, 500)  
 
 # DATA FORM
 Raw images should be in the directory of "/root/data/img"  
